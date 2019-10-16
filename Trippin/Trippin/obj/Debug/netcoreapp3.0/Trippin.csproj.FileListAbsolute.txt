@@ -1,0 +1,12 @@
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.exe
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.deps.json
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.runtimeconfig.json
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.runtimeconfig.dev.json
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.pdb
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.csprojAssemblyReference.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.AssemblyInfoInputs.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.AssemblyInfo.cs
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.pdb
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TrippinExercise\trippin-exercise-BrunnerAlexander\Trippin\Trippin\bin\Debug\netcoreapp3.0\users.json
